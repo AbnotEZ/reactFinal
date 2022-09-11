@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container {
+    background-image: url("https://img.freepik.com/vector-premium/lineas-abstractas-conectan-sobre-fondo-blanco-concepto-digital-conexion-tecnologia_32996-996.jpg?w=2000");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
